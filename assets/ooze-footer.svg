@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Symbiote protocol footer: stay curious, defend relentlessly">
-<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#060709"/><stop offset="1" stop-color="#190810"/></linearGradient><linearGradient id="r"><stop stop-color="#700e25"/><stop offset=".5" stop-color="#e62a48"/><stop offset="1" stop-color="#700e25"/></linearGradient></defs>
-<rect width="1200" height="170" rx="12" fill="url(#bg)"/>
-<path d="M0 0H1200V20C1164 13 1110 39 1092 70C1077 91 1081 33 1045 27C1016 21 1019 66 1002 81C985 96 984 32 962 24C925 8 921 32 887 30C835 27 803 10 777 25C748 41 767 102 741 103C715 105 729 46 706 34C670 15 629 34 589 28C538 20 507 19 493 36C480 54 493 94 473 95C457 95 460 33 441 28C408 16 367 30 318 28C269 26 237 14 214 26C192 38 211 67 190 72C168 77 165 28 132 27C85 26 39 22 0 27Z" fill="#020304" stroke="#8d152b" stroke-width="2"/>
-<path d="M42 146H1158" stroke="#802039" stroke-width="1"/>
-<text x="600" y="112" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="bold" letter-spacing="3" fill="#f1f3f6">STAY CURIOUS. DEFEND RELENTLESSLY.</text>
-<text x="600" y="140" text-anchor="middle" font-family="Consolas,monospace" font-size="16" letter-spacing="4" fill="#f24b69">DILLI DINESH  //  END TRANSMISSION</text>
-</svg>
