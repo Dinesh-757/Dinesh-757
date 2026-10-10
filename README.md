@@ -15,7 +15,9 @@
 
 </div>
 
-<img src="./assets/electric-conduit.svg" width="100%" alt="Purple and electric blue lightning section divider" />
+<img src="./assets/electric-matrix-stream.svg" width="100%" alt="Animated cyan Matrix-style falling code and branching lightning signals" />
+
+<img src="./assets/electric-conduit.svg" width="100%" alt="Animated electric blue lightning and falling-code divider" />
 
 ## 01 / IDENTITY — The person behind the signal
 
@@ -83,6 +85,8 @@ My approach connects offensive understanding with defensive engineering: learn t
 
 <sub>Tools listed are technologies in my work or studies; this section does not claim formal certifications or professional mastery.</sub>
 
+<img src="./assets/electric-matrix-stream.svg" width="100%" alt="Animated neon code streams and electric lightning between profile sections" />
+
 ## 04 / LIVE SIGNAL — GitHub activity
 
 <div align="center">
@@ -101,6 +105,6 @@ For detailed source and evidence, start with **[CyberShield AI](https://github.c
 
 <img src="./assets/electric-defense-footer.svg" alt="Stay curious. Defend relentlessly. Dilli Dinesh." width="100%" />
 
-<sub>Security research and testing are for educational and authorized environments only. Lightning animations, where supported, are decorative SVG effects; GitHub does not allow scripts or custom styling of the surrounding site.</sub>
+<sub>Security research and testing are for educational and authorized environments only. Lightning, glitch, and Matrix-style code animations are decorative SVG effects where supported; GitHub does not allow scripts or custom styling of the surrounding site.</sub>
 
 </div>
