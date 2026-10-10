@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 245" width="1200" height="245" role="img" aria-labelledby="title desc">
+<title id="title">Signal Path — Dilli Dinesh's security engineering workflow</title>
+<desc id="desc">Original cyber-blue animated command-console graphic showing four investigation stages: capture, detect, investigate, respond.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050d26"/><stop offset=".5" stop-color="#0d1c46"/><stop offset="1" stop-color="#110e3d"/></linearGradient>
+<linearGradient id="electric" x2="1"><stop stop-color="#7569ff"/><stop offset=".6" stop-color="#4baeff"/><stop offset="1" stop-color="#a6f4ff"/></linearGradient>
+<filter id="glow" x="-80%" y="-100%" width="260%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+<clipPath id="clip"><rect width="1200" height="245" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="245" rx="14" fill="url(#bg)"/>
+<text x="18" y="16" fill="#9b88ff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">0 1<animate attributeName="y" values="-25;265" dur="5s" begin="-0s" repeatCount="indefinite"/></text><text x="71" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">1 0<animate attributeName="y" values="-25;265" dur="6s" begin="-1s" repeatCount="indefinite"/></text><text x="124" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">A 0<animate attributeName="y" values="-25;265" dur="7s" begin="-2s" repeatCount="indefinite"/></text><text x="177" y="16" fill="#9b88ff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">7 F<animate attributeName="y" values="-25;265" dur="8s" begin="-3s" repeatCount="indefinite"/></text><text x="230" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">C D<animate attributeName="y" values="-25;265" dur="9s" begin="-4s" repeatCount="indefinite"/></text><text x="283" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">9 6<animate attributeName="y" values="-25;265" dur="10s" begin="-5s" repeatCount="indefinite"/></text><text x="336" y="16" fill="#9b88ff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">3 3<animate attributeName="y" values="-25;265" dur="5s" begin="-6s" repeatCount="indefinite"/></text><text x="389" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">D A<animate attributeName="y" values="-25;265" dur="6s" begin="-0s" repeatCount="indefinite"/></text><text x="442" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">0 1<animate attributeName="y" values="-25;265" dur="7s" begin="-1s" repeatCount="indefinite"/></text><text x="495" y="16" fill="#9b88ff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">1 0<animate attributeName="y" values="-25;265" dur="8s" begin="-2s" repeatCount="indefinite"/></text><text x="548" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">A 0<animate attributeName="y" values="-25;265" dur="9s" begin="-3s" repeatCount="indefinite"/></text><text x="601" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">7 F<animate attributeName="y" values="-25;265" dur="10s" begin="-4s" repeatCount="indefinite"/></text><text x="654" y="16" fill="#9b88ff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">C D<animate attributeName="y" values="-25;265" dur="5s" begin="-5s" repeatCount="indefinite"/></text><text x="707" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">9 6<animate attributeName="y" values="-25;265" dur="6s" begin="-6s" repeatCount="indefinite"/></text><text x="760" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">3 3<animate attributeName="y" values="-25;265" dur="7s" begin="-0s" repeatCount="indefinite"/></text><text x="813" y="16" fill="#9b88ff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">D A<animate attributeName="y" values="-25;265" dur="8s" begin="-1s" repeatCount="indefinite"/></text><text x="866" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">0 1<animate attributeName="y" values="-25;265" dur="9s" begin="-2s" repeatCount="indefinite"/></text><text x="919" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">1 0<animate attributeName="y" values="-25;265" dur="10s" begin="-3s" repeatCount="indefinite"/></text><text x="972" y="16" fill="#9b88ff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">A 0<animate attributeName="y" values="-25;265" dur="5s" begin="-4s" repeatCount="indefinite"/></text><text x="1025" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">7 F<animate attributeName="y" values="-25;265" dur="6s" begin="-5s" repeatCount="indefinite"/></text><text x="1078" y="16" fill="#6bcbff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">C D<animate attributeName="y" values="-25;265" dur="7s" begin="-6s" repeatCount="indefinite"/></text><text x="1131" y="16" fill="#9b88ff" fill-opacity=".23" font-family="Consolas,monospace" font-size="14">9 6<animate attributeName="y" values="-25;265" dur="8s" begin="-0s" repeatCount="indefinite"/></text>
+<rect x="12" y="10" width="1176" height="225" rx="11" fill="none" stroke="#6675c7" stroke-opacity=".45" stroke-width="2"/>
+<text x="32" y="42" fill="#7ad8ff" font-family="Consolas,monospace" font-size="18" letter-spacing="3">SIGNAL PATH  //  FROM OBSERVATION TO ACTION</text>
+<path d="M32 57H1160" fill="none" stroke="url(#electric)" opacity=".67" stroke-width="2"/>
+
+<path d="M260 132H333" fill="none" stroke="#6acfff" stroke-opacity=".32" stroke-width="11" filter="url(#glow)"/>
+<path d="M260 132H333" fill="none" stroke="url(#electric)" stroke-width="2.5" stroke-dasharray="9 8"><animate attributeName="stroke-dashoffset" from="68" to="-68" dur="2.4s" repeatCount="indefinite"/></path>
+<path d="M318 124l9 8-9 8" fill="none" stroke="#92ddff" stroke-width="2.5"/>
+<path d="M552 132H625" fill="none" stroke="#6acfff" stroke-opacity=".32" stroke-width="11" filter="url(#glow)"/>
+<path d="M552 132H625" fill="none" stroke="url(#electric)" stroke-width="2.5" stroke-dasharray="9 8"><animate attributeName="stroke-dashoffset" from="68" to="-68" dur="2.8s" repeatCount="indefinite"/></path>
+<path d="M610 124l9 8-9 8" fill="none" stroke="#92ddff" stroke-width="2.5"/>
+<path d="M844 132H917" fill="none" stroke="#6acfff" stroke-opacity=".32" stroke-width="11" filter="url(#glow)"/>
+<path d="M844 132H917" fill="none" stroke="url(#electric)" stroke-width="2.5" stroke-dasharray="9 8"><animate attributeName="stroke-dashoffset" from="68" to="-68" dur="3.2s" repeatCount="indefinite"/></path>
+<path d="M902 124l9 8-9 8" fill="none" stroke="#92ddff" stroke-width="2.5"/>
+
+<g>
+<rect x="32" y="76" width="260" height="129" rx="12" fill="#0b1640" stroke="#68e1ff" stroke-opacity=".58" stroke-width="2"/>
+<rect x="43" y="89" width="5" height="97" rx="2" fill="#68e1ff"><animate attributeName="opacity" values=".45;1;.65" dur="2.8s" repeatCount="indefinite"/></rect>
+<text x="62" y="110" fill="#68e1ff" font-family="Consolas,monospace" font-size="14" letter-spacing="2.5">STAGE 01</text>
+<text x="61" y="145" fill="#f1f7ff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="bold">CAPTURE</text>
+<text x="61" y="172" fill="#a5b9e4" font-family="Consolas,monospace" font-size="13">Packets · File events</text>
+<circle cx="264" cy="100" r="5" fill="#68e1ff"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<rect x="324" y="76" width="260" height="129" rx="12" fill="#0b1640" stroke="#7594ff" stroke-opacity=".58" stroke-width="2"/>
+<rect x="335" y="89" width="5" height="97" rx="2" fill="#7594ff"><animate attributeName="opacity" values=".45;1;.65" dur="3.1999999999999997s" repeatCount="indefinite"/></rect>
+<text x="354" y="110" fill="#7594ff" font-family="Consolas,monospace" font-size="14" letter-spacing="2.5">STAGE 02</text>
+<text x="353" y="145" fill="#f1f7ff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="bold">DETECT</text>
+<text x="353" y="172" fill="#a5b9e4" font-family="Consolas,monospace" font-size="13">Models · Rules · IOCs</text>
+<circle cx="556" cy="100" r="5" fill="#7594ff"><animate attributeName="opacity" values=".25;1;.25" dur="2.17s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<rect x="616" y="76" width="260" height="129" rx="12" fill="#0b1640" stroke="#a58cff" stroke-opacity=".58" stroke-width="2"/>
+<rect x="627" y="89" width="5" height="97" rx="2" fill="#a58cff"><animate attributeName="opacity" values=".45;1;.65" dur="3.5999999999999996s" repeatCount="indefinite"/></rect>
+<text x="646" y="110" fill="#a58cff" font-family="Consolas,monospace" font-size="14" letter-spacing="2.5">STAGE 03</text>
+<text x="645" y="145" fill="#f1f7ff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="bold">INVESTIGATE</text>
+<text x="645" y="172" fill="#a5b9e4" font-family="Consolas,monospace" font-size="13">Context · Triage</text>
+<circle cx="848" cy="100" r="5" fill="#a58cff"><animate attributeName="opacity" values=".25;1;.25" dur="2.54s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+<rect x="908" y="76" width="260" height="129" rx="12" fill="#0b1640" stroke="#7de8ff" stroke-opacity=".58" stroke-width="2"/>
+<rect x="919" y="89" width="5" height="97" rx="2" fill="#7de8ff"><animate attributeName="opacity" values=".45;1;.65" dur="4s" repeatCount="indefinite"/></rect>
+<text x="938" y="110" fill="#7de8ff" font-family="Consolas,monospace" font-size="14" letter-spacing="2.5">STAGE 04</text>
+<text x="937" y="145" fill="#f1f7ff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="bold">RESPOND</text>
+<text x="937" y="172" fill="#a5b9e4" font-family="Consolas,monospace" font-size="13">Document · Improve</text>
+<circle cx="1140" cy="100" r="5" fill="#7de8ff"><animate attributeName="opacity" values=".25;1;.25" dur="2.91s" repeatCount="indefinite"/></circle>
+</g>
+<text x="1170" y="225" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#718fc8" letter-spacing="2">EVIDENCE &gt; ASSUMPTIONS  //  SECURITY WORKFLOW</text>
+</g></svg>
