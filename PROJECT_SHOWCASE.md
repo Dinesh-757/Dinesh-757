@@ -10,6 +10,8 @@
 
 </div>
 
+<img src="./assets/electric-matrix-stream.svg" width="100%" alt="Animated neon-blue falling data streams and glitch lightning" />
+
 > **Reading guide:** These dossiers summarize project repositories. They do not certify production readiness, model accuracy, or an independently verified live deployment. For a technical assessment, run the documented setup and tests in a controlled environment and examine the real output.
 
 | Operation | Problem | First thing to inspect |
