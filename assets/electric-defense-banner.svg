@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
+<title id="t">Dilli Dinesh — Electric Defense</title><desc id="d">Dark midnight blue cybersecurity banner with electric purple and cyan lightning, titled Dilli Dinesh: detect, investigate, defend.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#040816"/><stop offset=".58" stop-color="#0b1534"/><stop offset="1" stop-color="#180b39"/></linearGradient>
+<linearGradient id="wire" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset=".52" stop-color="#3b82f6"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<radialGradient id="v" cx=".66" cy=".52" r=".65"><stop stop-color="#6533ff" stop-opacity=".35"/><stop offset="1" stop-color="#190b48" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#90bcff" stroke-opacity=".075"/></pattern>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="11"/></filter>
+<filter id="boltglow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="380" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="380" fill="url(#grid)"/>
+<rect width="1200" height="380" fill="url(#v)"/>
+<path d="M0 65L117 23L204 88L350 40L487 80L612 22" fill="none" stroke="#43359f" stroke-opacity=".43" stroke-width="2"/>
+<path d="M0 295L116 346L207 289L341 355L464 307L565 344" fill="none" stroke="#345baf" stroke-opacity=".3" stroke-width="2"/>
+<g transform="translate(848 179)" opacity=".85">
+ <circle r="118" fill="none" stroke="#4167b6" stroke-opacity=".25" stroke-width="2" stroke-dasharray="9 16"/>
+ <circle r="89" fill="none" stroke="#9471ff" stroke-opacity=".48" stroke-width="1.4"/>
+ <circle r="52" fill="none" stroke="#6fe8ff" stroke-opacity=".54" stroke-width="1.4"/>
+ <circle r="30" fill="#8b5cf6" opacity=".2" filter="url(#blur)"/>
+ <circle r="7" fill="#a8f1ff"><animate attributeName="opacity" values=".55;1;.65;1" dur="2.8s" repeatCount="indefinite"/></circle>
+ <path d="M-120 0H120M0 -120V120" stroke="#99bfff" stroke-opacity=".2"/>
+</g>
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" filter="url(#boltglow)">
+ <path d="M1126 -24L1020 36L1064 67L963 119L1010 147L869 229L922 245L791 349L816 293L758 279L861 184L809 159L941 78L899 50L1000 -5" stroke="#7c3aed" stroke-width="18" opacity=".28" filter="url(#blur)"/>
+ <path d="M1126 -24L1020 36L1064 67L963 119L1010 147L869 229L922 245L791 349" stroke="url(#wire)" stroke-width="4.8" opacity=".97"><animate attributeName="opacity" values=".5;1;.75;1;.3;.9" keyTimes="0;.12;.22;.3;.48;1" dur="5.2s" repeatCount="indefinite"/></path>
+ <path d="M869 229L808 201L739 254L700 235L630 298" stroke="#5be2ff" stroke-width="3"><animate attributeName="opacity" values=".1;.9;.3;1;.1" dur="3.7s" repeatCount="indefinite"/></path>
+ <path d="M1010 147L1106 186L1080 221L1163 246L1197 291" stroke="#bfa9ff" stroke-width="2.7"><animate attributeName="opacity" values=".2;1;.3;.7;.2" dur="4.2s" repeatCount="indefinite"/></path>
+ <path d="M791 349L703 371M1020 36L1144 57L1181 37" stroke="#86e9ff" stroke-width="2.3" opacity=".75"/>
+ <path d="M948 117L884 91L858 113L807 96" stroke="#c0acff" stroke-width="2.7" opacity=".7"/>
+</g>
+<path d="M47 58H764" stroke="url(#wire)" stroke-width="3"/>
+<path d="M47 312H755" stroke="url(#wire)" stroke-width="2" opacity=".75"/>
+<g font-family="'Segoe UI',Arial,Helvetica,sans-serif">
+ <text x="56" y="100" fill="#b8a7ff" letter-spacing="5" font-size="18" font-weight="bold">ELECTRIC DEFENSE  //  SOC OPERATIONS</text>
+ <text x="47" y="202" fill="#f4f7ff" font-size="79" font-weight="900" letter-spacing="1">DILLI DINESH</text>
+ <text x="54" y="251" fill="#a0d9ff" font-size="31" font-weight="700" letter-spacing="1.8">DETECT. INVESTIGATE. DEFEND.</text>
+ <text x="56" y="293" fill="#c5bde8" font-size="20" letter-spacing="2">CYBERSECURITY  •  BLUE TEAM  •  BUILDER</text>
+ <text x="53" y="348" fill="#8799d3" font-family="Consolas,monospace" font-size="17" letter-spacing="2">GITHUB.COM/DINESH-757  /  SIGNAL ACTIVE</text>
+</g>
+<path d="M3 20Q3 3 20 3H1180Q1197 3 1197 20V360Q1197 377 1180 377H20Q3 377 3 360Z" fill="none" stroke="#7b61d8" stroke-width="2" stroke-opacity=".45"/>
+</svg>
