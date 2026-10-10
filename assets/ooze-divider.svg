@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 93" width="1200" height="93" role="img" aria-label="Black symbiote tendrils and red ooze dividing sections">
+<defs><linearGradient id="r" x1="0" x2="1"><stop stop-color="#3d0610"/><stop offset=".45" stop-color="#d6193a"/><stop offset="1" stop-color="#3d0610"/></linearGradient></defs>
+<path d="M0 28C74 18 126 42 171 27C212 14 223 37 241 58C261 80 265 25 287 21C323 15 350 32 389 29C427 26 429 8 455 14C476 19 470 72 488 81C508 91 499 26 527 21C574 14 597 39 627 31C664 20 672 14 694 19C715 25 702 69 729 70C753 70 738 29 773 26C802 22 833 37 864 28C896 19 889 8 910 14C934 21 921 58 944 64C967 71 953 27 993 22C1031 17 1060 34 1089 26C1128 15 1170 28 1200 19" fill="none" stroke="url(#r)" stroke-width="6" stroke-linecap="round"/>
+<path d="M0 21C77 15 116 24 156 19C207 13 230 25 249 43L254 61L262 36C277 14 316 20 353 22C409 26 452 7 468 21L487 72L497 30C508 15 550 21 585 25C641 29 664 13 697 22L724 61L739 30C758 19 816 25 863 24C922 24 934 11 944 35L949 58L957 31C977 15 1011 21 1054 24C1127 26 1148 18 1200 20V0H0Z" fill="#07080a"/>
+<path d="M0 34H1200" stroke="#8e1029" stroke-opacity=".3" stroke-width="1"/>
+</svg>
