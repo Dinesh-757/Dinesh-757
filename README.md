@@ -1,110 +1,153 @@
 <div align="center">
 
-<img src="./assets/electric-defense-banner.svg" alt="Dilli Dinesh — Electric Defense: Detect. Investigate. Defend. An electric purple and blue lightning banner." width="100%" />
+<img src="./assets/electric-defense-banner.svg" width="100%" alt="Electric Defense — Dilli Dinesh, blue lightning and glitch-styled security engineering banner" />
 
-<a href="https://github.com/Dinesh-757"><img src="https://img.shields.io/badge/MISSION-BLUE%20TEAM-4f46e5?style=for-the-badge&labelColor=090f25" alt="Mission Blue Team" /></a>
-<a href="https://github.com/Dinesh-757"><img src="https://img.shields.io/badge/FOCUS-SOC%20%2B%20DETECTION-2563eb?style=for-the-badge&labelColor=090f25" alt="Focus SOC and Detection" /></a>
-<a href="https://dinesh-757.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20LIVE-7c3aed?style=for-the-badge&labelColor=090f25" alt="Open portfolio" /></a>
-<img src="https://komarev.com/ghpvc/?username=Dinesh-757&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge&labelColor=090f25" alt="Profile views" />
+**Cybersecurity student · SOC / Blue Team track · Security product builder**
 
-### Cybersecurity student • SOC analyst aspirant • Security tool builder
+*Turning raw signals into investigations, and investigations into better defenses.*
 
-**Turn noise into signals. Turn signals into actionable defense.**
-
-[Portfolio](https://dinesh-757.github.io/) &nbsp; • &nbsp; [Project dossiers](./PROJECT_SHOWCASE.md) &nbsp; • &nbsp; [LinkedIn](https://www.linkedin.com/in/dilli-dinesh) &nbsp; • &nbsp; [TryHackMe](https://tryhackme.com/p/Dinesh20)
+<a href="https://dinesh-757.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-2563eb?style=for-the-badge&labelColor=07152d" alt="Portfolio" /></a>
+<a href="./PROJECT_SHOWCASE.md"><img src="https://img.shields.io/badge/MISSION_DOSSIERS-03_PROJECTS-7c3aed?style=for-the-badge&labelColor=07152d" alt="Project dossiers" /></a>
+<a href="https://www.linkedin.com/in/dilli-dinesh"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0891b2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07152d" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=Dinesh-757&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge&labelColor=07152d" alt="Profile views" />
 
 </div>
 
-<img src="./assets/electric-matrix-stream.svg" width="100%" alt="Animated cyan Matrix-style falling code and branching lightning signals" />
+<img src="./assets/electric-matrix-stream.svg" width="100%" alt="Animated electric-blue falling-code telemetry and lightning" />
 
-<img src="./assets/electric-conduit.svg" width="100%" alt="Animated electric blue lightning and falling-code divider" />
+## 01 / OPERATOR BRIEF — Beyond the dashboard
 
-## 01 / IDENTITY — The person behind the signal
+I'm **Dilli Dinesh**, a final-year **B.E. CSE (Cyber Security)** student focused on becoming a **SOC analyst** and building security tools with understandable, testable behavior.
 
-I'm **Dilli Dinesh**, a final-year **B.E. CSE (Cyber Security)** student, building hands-on experience in **SOC operations, network defense, log analysis, and detection engineering**.
+I like security engineering that starts with a real question: **What happened, how do we know, and what should we do next?** I explore that question through packet capture, alert pipelines, logs, file activity, and digital forensic workflows — in authorized environments.
 
-My approach connects offensive understanding with defensive engineering: learn the technique in an authorized environment, collect evidence, investigate what happened, and create tools that make detection easier.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Field | Signal |
-| :-- | :-- |
-| **Primary track** | SOC analyst / Blue Team / detection engineering |
-| **Investigating** | Network traffic, security logs, file activity, malicious indicators |
-| **Building with** | Python, FastAPI, React, SQL, Linux, Docker |
-| **Learning next** | SIEM investigations, threat hunting, incident response, purple teaming |
-| **Guiding principle** | Test the implementation. Document what works **and** what does not. |
+**🔎 Investigating now**
+
+Network packets, suspicious files, log anomalies, indicators of compromise, and detection quality.
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 Expanding next**
+
+SIEM investigations, detection engineering, threat hunting, incident response, and purple-team techniques.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**⚙️ Building with**
+
+Python · FastAPI · React · TypeScript · SQL · Linux · Docker
+
+</td>
+<td valign="top">
+
+**🎯 Career direction**
+
+SOC / Blue Team operations and security engineering, supported by hands-on projects and documented tests.
+
+</td>
+</tr>
+</table>
+
+### My security workflow, visualized
+
+<img src="./assets/signal-path.svg" width="100%" alt="Original animated command-console diagram: capture, detect, investigate, respond" />
+
+*Collect signals → analyze evidence → investigate context → document findings and improve defenses.*
+
+<img src="./assets/electric-conduit.svg" width="100%" alt="Animated electric lightning separator" />
+
+## 02 / FEATURED OPERATIONS — Three problems, three builds
+
+<a href="https://github.com/Dinesh-757/CyberShield-AI"><img src="./assets/operation-cybershield.svg" width="100%" alt="CyberShield AI animated security operations artwork" /></a>
+
+**CyberShield AI** — A multi-module security operations platform exploring network intrusion detection, ransomware behavior monitoring, security logs, threat intelligence, authorized vulnerability checks, incident workflows and PDF reporting.
+
+**Explore:** [Source and architecture](https://github.com/Dinesh-757/CyberShield-AI) · [Technical dossier](./PROJECT_SHOWCASE.md#01--cybershield-ai--security-operations-platform)
+
+<a href="https://github.com/Dinesh-757/CodeGuard-AI"><img src="./assets/operation-codeguard.svg" width="100%" alt="CodeGuard AI animated developer security artwork" /></a>
+
+**CodeGuard AI** — A local workspace security monitor for risky AI instructions, exposed secrets, unsafe MCP configuration and dependency indicators, with authenticated dashboards and persisted file-event findings. Its documentation identifies validation still pending.
+
+**Explore:** [Source and runbook](https://github.com/Dinesh-757/CodeGuard-AI) · [Test guidance](https://github.com/Dinesh-757/CodeGuard-AI#tests) · [Technical dossier](./PROJECT_SHOWCASE.md#02--codeguard-ai--local-coding-workspace-security)
+
+<a href="https://github.com/Dinesh-757/Memforensix"><img src="./assets/operation-memforensix.svg" width="100%" alt="Memforensix animated memory-forensics artwork" /></a>
+
+**Memforensix** — A digital memory-forensics investigation workbench using Volatility 3 paths, YARA rules and anomaly detection. Its bundled example uses a **synthetic fallback**, not a genuine forensic memory image.
+
+**Explore:** [Source and setup](https://github.com/Dinesh-757/Memforensix) · [Data limitations](https://github.com/Dinesh-757/Memforensix#important-about-the-forensics-in-this-demo) · [Technical dossier](./PROJECT_SHOWCASE.md#03--memforensix--memory-forensics-workbench)
+
+> **Build philosophy:** I want the implementation to be reviewable, not just the screenshots. Listed capabilities are based on repository documentation; they are not claims of independently verified production readiness.
+
+**[OPEN ALL PROJECT DOSSIERS →](./PROJECT_SHOWCASE.md)**
 
 <img src="./assets/electric-conduit.svg" width="100%" alt="" />
 
-## 02 / FEATURED OPERATIONS — Projects with a purpose
+## 03 / CAPABILITY MAP — Tools and techniques
 
-<a href="https://github.com/Dinesh-757/CyberShield-AI"><img src="./assets/operation-cybershield.svg" width="100%" alt="CyberShield AI: network threats, detection pipelines, and incident workflows" /></a>
+Rather than listing every security product, here's where my projects and learning connect:
 
-**01 — CyberShield AI** · A multi-module security operations platform combining AI-assisted network intrusion detection, file/ransomware behavior analysis, security logs, threat intelligence, vulnerability scanning, incident workflows, and reports.
+| Area | What I work on | Supporting technology |
+| :--- | :--- | :--- |
+| **Security operations** | Traffic inspection, alert triage, event correlation, threat indicators | Wireshark, Scapy, Linux, SIEM concepts |
+| **Detection & analysis** | Rule-based detection, ML inference, event streams, review workflows | Python, scikit-learn, WebSockets |
+| **Digital forensics** | Process / network artifacts, YARA indicators, memory-analysis pipelines | Volatility 3, YARA |
+| **Application security** | Scoped vulnerability checks, secret exposure, configuration and dependency risks | Nmap, HTTP checks, deterministic scanners |
+| **Full-stack engineering** | Backend APIs, dashboards, authentication, persistence and reporting | FastAPI, React, TypeScript, PostgreSQL, Docker |
 
-**Explore:** [Source and setup](https://github.com/Dinesh-757/CyberShield-AI) · [Technical dossier](./PROJECT_SHOWCASE.md#01--cybershield-ai--security-operations-platform)
+<div align="center">
 
-<a href="https://github.com/Dinesh-757/CodeGuard-AI"><img src="./assets/operation-codeguard.svg" width="100%" alt="CodeGuard AI: local workspace monitoring and deterministic security findings" /></a>
+<img src="https://img.shields.io/badge/Python-0c1d40?style=for-the-badge&logo=python&logoColor=73d6ff" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-0c1d40?style=for-the-badge&logo=fastapi&logoColor=71eeea" alt="FastAPI" />
+<img src="https://img.shields.io/badge/React-0c1d40?style=for-the-badge&logo=react&logoColor=83d9ff" alt="React" />
+<img src="https://img.shields.io/badge/Linux-0c1d40?style=for-the-badge&logo=linux&logoColor=e8f4ff" alt="Linux" />
+<img src="https://img.shields.io/badge/Wireshark-0c1d40?style=for-the-badge&logo=wireshark&logoColor=8cb5ff" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Docker-0c1d40?style=for-the-badge&logo=docker&logoColor=6bb5ff" alt="Docker" />
+<img src="https://img.shields.io/badge/PostgreSQL-0c1d40?style=for-the-badge&logo=postgresql&logoColor=9eafff" alt="PostgreSQL" />
 
-**02 — CodeGuard AI** · A developer-security tool that monitors explicitly approved local workspaces, checks for exposed secrets, risky AI instructions and MCP configurations, and streams persisted findings to an authenticated dashboard.
+</div>
 
-**Explore:** [Source, runbook and tests](https://github.com/Dinesh-757/CodeGuard-AI) · [Technical dossier](./PROJECT_SHOWCASE.md#02--codeguard-ai--local-coding-workspace-security)
+<sub>Skills and tools describe hands-on work or current study, not professional certifications or verified mastery.</sub>
 
-<a href="https://github.com/Dinesh-757/Memforensix"><img src="./assets/operation-memforensix.svg" width="100%" alt="Memforensix: memory artifact analysis with Volatility 3, YARA, and anomaly detection" /></a>
+<img src="./assets/electric-matrix-stream.svg" width="100%" alt="Cyan lightning and cascading data transitions into GitHub telemetry" />
 
-**03 — Memforensix** · A digital-forensics analysis pipeline exploring Volatility 3 process and network artifacts, YARA indicators, and anomaly detection. Its included sample follows a **synthetic fallback** demonstration path; real analysis requires a genuine memory image.
+## 04 / PUBLIC TELEMETRY — Code in motion
 
-**Explore:** [Source and constraints](https://github.com/Dinesh-757/Memforensix) · [Technical dossier](./PROJECT_SHOWCASE.md#03--memforensix--memory-forensics-workbench)
+<div align="center">
 
-> **Evidence matters:** Repository feature descriptions are not proof of independent production validation. Each project links to its setup, known limitations, and verification notes.
+<img src="https://streak-stats.demolab.com/?user=Dinesh-757&hide_border=true&background=08132d&stroke=2f5f9e&ring=38bdf8&fire=8b5cf6&currStreakNum=e1f2ff&currStreakLabel=75d6ff&sideNums=e1f2ff&sideLabels=91b5e2&dates=98a6d3" alt="GitHub contribution streak statistics" height="170" />
 
-**[EXPLORE THE FULL PROJECT DOSSIERS →](./PROJECT_SHOWCASE.md)**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-757&layout=compact&hide_border=true&bg_color=08132d&title_color=81dfff&text_color=bcd4ff" alt="Languages used in public GitHub repositories" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-757&bg_color=08132d&color=a8b7ed&line=6b9cff&point=6ceaff&area=true&area_color=1e326b&hide_border=true" alt="Public GitHub contribution activity graph" width="97%" />
+
+</div>
+
+<sub>These visualizations use third-party GitHub statistics services. They may be unavailable temporarily; language usage is not a measure of skill.</sub>
 
 <img src="./assets/electric-conduit.svg" width="100%" alt="" />
 
-## 03 / ENGINEERING STACK — Tools I build and learn with
+## 05 / NEXT SIGNAL — Build, test, explain, repeat
+
+I am preparing for an entry-level **SOC analyst / cybersecurity engineering** role by turning security concepts into reproducible workflows. My priorities are evidence-backed detections, understandable false positives, safe authorization boundaries, and honest technical documentation.
+
+**Open a project:** [CyberShield AI](https://github.com/Dinesh-757/CyberShield-AI) · [CodeGuard AI](https://github.com/Dinesh-757/CodeGuard-AI) · [Memforensix](https://github.com/Dinesh-757/Memforensix)
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111936?style=for-the-badge&logo=python&logoColor=93c5fd)
-![FastAPI](https://img.shields.io/badge/FastAPI-111936?style=for-the-badge&logo=fastapi&logoColor=67e8f9)
-![React](https://img.shields.io/badge/React-111936?style=for-the-badge&logo=react&logoColor=67e8f9)
-![Linux](https://img.shields.io/badge/Linux-111936?style=for-the-badge&logo=linux&logoColor=e2e8f0)
-![Wireshark](https://img.shields.io/badge/Wireshark-111936?style=for-the-badge&logo=wireshark&logoColor=a5b4fc)
-![Docker](https://img.shields.io/badge/Docker-111936?style=for-the-badge&logo=docker&logoColor=60a5fa)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111936?style=for-the-badge&logo=postgresql&logoColor=93c5fd)
-![Git](https://img.shields.io/badge/Git-111936?style=for-the-badge&logo=git&logoColor=c4b5fd)
+### Have a security engineering idea or want to collaborate?
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/dilli-dinesh) · [Portfolio](https://dinesh-757.github.io/) · [TryHackMe](https://tryhackme.com/p/Dinesh20) · [GitHub projects](https://github.com/Dinesh-757?tab=repositories)
 
-| Track | What I practice |
-| :-- | :-- |
-| **Blue Team / SOC** | Alert triage, packet inspection, log investigation, detection rules |
-| **Digital forensics** | Evidence handling concepts, memory artifacts, investigative workflows |
-| **Application security** | Scope-based scanning, code/configuration review, secret exposure |
-| **Software engineering** | Backends, frontend dashboards, authentication, databases, testing |
+<img src="./assets/electric-defense-footer.svg" width="100%" alt="Animated blue lightning outro: Stay curious. Defend relentlessly." />
 
-<sub>Tools listed are technologies in my work or studies; this section does not claim formal certifications or professional mastery.</sub>
-
-<img src="./assets/electric-matrix-stream.svg" width="100%" alt="Animated neon code streams and electric lightning between profile sections" />
-
-## 04 / LIVE SIGNAL — GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-757&bg_color=0a1027&color=b4bef9&line=8b5cf6&point=38bdf8&area=true&area_color=1d275c&hide_border=true" alt="GitHub public contribution activity graph" width="97%" />
-</div>
-
-<sub>This activity chart is served by a third-party service and may be temporarily unavailable.</sub>
-
-## 05 / NEXT MISSION — Learning in public
-
-My focus is to develop beyond surface-level demos: design measurable security workflows, test real event paths, understand false positives, and publish reproducible findings. I am building toward an entry-level **SOC analyst / cybersecurity engineering** role.
-
-For detailed source and evidence, start with **[CyberShield AI](https://github.com/Dinesh-757/CyberShield-AI)**, **[CodeGuard AI](https://github.com/Dinesh-757/CodeGuard-AI)**, or **[Memforensix](https://github.com/Dinesh-757/Memforensix)**.
-
-<div align="center">
-
-<img src="./assets/electric-defense-footer.svg" alt="Stay curious. Defend relentlessly. Dilli Dinesh." width="100%" />
-
-<sub>Security research and testing are for educational and authorized environments only. Lightning, glitch, and Matrix-style code animations are decorative SVG effects where supported; GitHub does not allow scripts or custom styling of the surrounding site.</sub>
+<sub>All security research and testing should be performed in authorized environments. Lightning and falling-code visuals are decorative SVG animations where supported; GitHub does not allow scripts to restyle its website.</sub>
 
 </div>
