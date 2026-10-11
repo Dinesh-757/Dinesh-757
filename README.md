@@ -16,12 +16,10 @@
 </div>
 
 <p align="center">
-<a href="#operator-brief">01 · About</a> &nbsp; / &nbsp; <a href="#featured-operations">02 · Projects</a> &nbsp; / &nbsp; <a href="#capability-map">03 · Skills</a> &nbsp; / &nbsp; <a href="#public-telemetry">04 · Activity</a> &nbsp; / &nbsp; <a href="#next-signal">05 · Connect</a>
+<a href="#user-content-01--operator-brief--beyond-the-dashboard">01 · About</a> &nbsp; / &nbsp; <a href="#user-content-02--featured-operations--three-problems-three-builds">02 · Projects</a> &nbsp; / &nbsp; <a href="#user-content-03--capability-map--tools-and-techniques">03 · Skills</a> &nbsp; / &nbsp; <a href="#user-content-04--public-telemetry--code-in-motion">04 · Activity</a> &nbsp; / &nbsp; <a href="#user-content-05--next-signal--build-test-explain-repeat">05 · Connect</a>
 </p>
 
 <img src="./assets/electric-matrix-stream.svg" width="100%" alt="Animated electric-blue falling-code telemetry and lightning" />
-
-<a id="operator-brief"></a>
 
 ## 01 / OPERATOR BRIEF — Beyond the dashboard
 
@@ -72,8 +70,6 @@ SOC / Blue Team operations and security engineering, supported by hands-on proje
 
 <img src="./assets/electric-conduit.svg" width="100%" alt="Animated electric lightning separator" />
 
-<a id="featured-operations"></a>
-
 ## 02 / FEATURED OPERATIONS — Three problems, three builds
 
 <a href="https://github.com/Dinesh-757/CyberShield-AI"><img src="./assets/operation-cybershield.svg" width="100%" alt="CyberShield AI animated security operations artwork" /></a>
@@ -118,8 +114,6 @@ SOC / Blue Team operations and security engineering, supported by hands-on proje
 
 <img src="./assets/electric-conduit.svg" width="100%" alt="" />
 
-<a id="capability-map"></a>
-
 ## 03 / CAPABILITY MAP — Tools and techniques
 
 Rather than listing every security product, here's where my projects and learning connect:
@@ -147,8 +141,6 @@ Rather than listing every security product, here's where my projects and learnin
 <sub>Skills and tools describe hands-on work or current study, not professional certifications or verified mastery.</sub>
 
 <img src="./assets/electric-matrix-stream.svg" width="100%" alt="Cyan lightning and cascading data transitions into GitHub telemetry" />
-
-<a id="public-telemetry"></a>
 
 ## 04 / PUBLIC TELEMETRY — Code in motion
 
@@ -178,8 +170,6 @@ Rather than listing every security product, here's where my projects and learnin
 </p>
 
 <img src="./assets/electric-conduit.svg" width="100%" alt="" />
-
-<a id="next-signal"></a>
 
 ## 05 / NEXT SIGNAL — Build, test, explain, repeat
 
